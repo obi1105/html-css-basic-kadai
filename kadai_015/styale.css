@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Meiryo, sans-serif
+}
+
+html {
+    font-size: 20px;
+}
+
+span.blue {
+    color: skyblue;
+}
+
+body span .pink{
+    color: rgb(255, 192, 203) ;
+}
+
+body h2 .pink {
+    color: rgb(255, 192, 203) ;
+}
+
+body h2 .blue{
+    color: skyblue;
+}
+
